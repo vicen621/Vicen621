@@ -17,11 +17,10 @@
   </summary>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=Vicen621&count_private=true&theme=dark">
-  <!-- <img src="https://activity-graph.herokuapp.com/graph?username=PermisosDev&theme=high-contrast"> -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Vicen621&theme=onedark">
-  
 </details>
 
-♫ Listening Now: ♫
+<p align="center">
+  ♫ Listening Now: ♫
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vicente621&cover_image=true&theme=compact&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view? uid=vicente621&cover_image=true&theme=compact&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
+</P>
