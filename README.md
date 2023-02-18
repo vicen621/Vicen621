@@ -16,9 +16,9 @@
     <samp>stats</samp>
   </summary>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=PermisosDev&count_private=true&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vicen621&count_private=true&theme=dark">
   <!-- <img src="https://activity-graph.herokuapp.com/graph?username=PermisosDev&theme=high-contrast"> -->
-  <img src="https://github-profile-trophy.vercel.app/?username=PermisosDev&theme=onedark">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vicen621&theme=onedark">
   
 </details>
 
