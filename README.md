@@ -21,4 +21,4 @@
 
 ♫ Listening Now: ♫
   
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view? uid=vicente621&cover_image=true&theme=compact&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vicente621&cover_image=true&theme=natemoo-re&show_offline=false&background_color=3b3b3b&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
