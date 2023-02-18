@@ -5,8 +5,8 @@
   <samp>Hi there</samp>
   <br>
   <samp>
-    <a href="https://twitter.com/Vicen621">Twitter</a> •
-    <a href="https://discordapp.com/users/678105204494827521">Discord</a>
+    <a href="https://discordapp.com/users/678105204494827521">Discord</a> •
+    <a href="https://steamcommunity.com/profiles/76561199041523444">Steam</a>
   </samp>
   <br>
 </p>
