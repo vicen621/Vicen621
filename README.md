@@ -19,8 +19,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Vicen621&count_private=true&theme=dark">
 </details>
 
-<p align="center">
-  ♫ Listening Now: ♫
-
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view? uid=vicente621&cover_image=true&theme=compact&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
-</P>
+♫ Listening Now: ♫
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view? uid=vicente621&cover_image=true&theme=compact&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
